@@ -25,16 +25,13 @@ I will be sharing daily updates on my LinkedIn profile, detailing the challenges
 
 This GitHub repository will serve as a central hub for all the code, projects, and resources associated with this 180-day challenge.
 
-#### Related Images
-
-![Day 1](/images/day1.jpg)
-*Caption: Day 1 - Changing MAC address and revisiting Python NumPy methods.*
 
 ### Connect with Me
 
 Join me on this exciting journey by connecting with me on LinkedIn and GitHub. Your support and insights are highly valued!
 
 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/dharmender-510036273/))
-GitHub: [Your GitHub Profile](https://github.com/your-username)
+GitHub: [Your GitHub Profile]([https://github.com/your-username](https://lnkd.in/gJ2WPsYw
+))
 
 Let the 180-day challenge begin! 🚀💻 #CyberSecurity #DataScience #LearningJourney #180DaysOfCode
