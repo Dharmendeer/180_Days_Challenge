@@ -1,1 +1,0 @@
-print("Hello Guys This is my first program of day 1")
